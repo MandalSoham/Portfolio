@@ -1,0 +1,145 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(13, 13, 13);
+  }
+  h1{
+    margin: 0%;
+    font-family: 'Pacifico', cursive;
+    color: white;
+    font-size: 48px;
+  }
+  .header{
+    position: fixed;
+	  width: 100%;
+    text-align: center;
+    top: 0%;
+    margin: 0%;
+    background-color: black;
+  }
+  .home{
+    border: none;
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(13, 13, 13);
+    color: white;
+    font-size: 30px;
+    font-family: 'Indie Flower', cursive;
+  }
+  .home:hover {
+    background-color: black;
+  }
+  .about{
+    border: none;
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(13, 13, 13);
+    color: white;
+    font-size: 30px;
+    font-family: 'Indie Flower', cursive;
+  }
+  .about:hover {
+    background-color: black;
+  }
+  .portfolio{
+    border: none;
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(13, 13, 13);
+    color: white;
+    font-size: 30px;
+    font-family: 'Indie Flower', cursive;
+
+  }
+  .portfolio:hover {
+    background-color: black;
+  }
+  .resume{
+    border: none;
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(13, 13, 13);
+    color: white;
+    font-size: 30px;
+    font-family: 'Indie Flower', cursive;
+  }
+  .resume:hover {
+    background-color: black;
+  }
+  .contact{
+    border: none;
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(13, 13, 13);
+    color: white;
+    font-size: 30px;
+    font-family: 'Indie Flower', cursive;
+  }
+  .contact:hover {
+    background-color: black;
+  }
+  .myimage{
+    text-align: center;
+  }
+  img{
+    max-width: 350px;
+    border-style: solid;
+    border-color: black;
+  }
+  .home_section{
+    display: block;
+  }
+  .about_section{
+    display: none;
+    background-color: lightblue;
+    margin: 2%;
+    padding: 1%;
+    border-style: solid;
+    border-color: black;
+  }
+  .portfolio_section{
+    display: none;
+  }
+  .contact_section{
+    display:none;
+    background-color: lightblue;
+    margin: 2%;
+    padding: 1%;
+    border-style: dotted;
+    border-color: black;
+  }
+  .about_info{
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+  }
+  .about_info1{
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+  }
+  .about_info2{
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+  }
+  .about_info3{
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+  }
+  .portfolio_info{
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+  }
+  .contact_info{
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+  }
+  .contact_info1{
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+  }
